@@ -1,0 +1,19 @@
+{
+    "name": "daniel-palm/string-generator",
+    "description": "A library for generating random strings.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DanielPalm\\StringGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Palm"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}

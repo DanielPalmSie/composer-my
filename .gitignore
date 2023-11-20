@@ -1,0 +1,10 @@
+*.iml
+•idea/
+/out/
+/import/
+# Project files
+vendor
+composer.Lock
+/fpm
+/nginx
+docker-compose.yml
